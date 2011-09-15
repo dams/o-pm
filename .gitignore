@@ -1,0 +1,13 @@
+_build
+.build
+o-*
+cover_db
+*~
+*#
+*.bak
+*.old
+*.rej
+*.swp
+*.tmp
+
+
